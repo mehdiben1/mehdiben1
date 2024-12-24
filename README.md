@@ -13,8 +13,6 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 - **Visualization:** Tableau, Power Bi
 - **ML/DL:** SkLearn / Tensorflow
 
-### 💡  Projects
-Welcome to my portfolio, where I showcase my [Projects]()
 ### 📜 Certifications 
 - **Data Camp Certified:** Data analyst with SQL 
 - **Data Camp Certified:** Data analyst with Python 
