@@ -19,9 +19,7 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 - **Google Certified:** Google Data Analytics Professional Certificate
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mehdi-benbiba/)
 
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/mehdi-benbiba/">
+  <img height="32" align="left" alt="LinkedIn" src="https://github.com/mehdiben1/mehdiben1/blob/main/Images/linkedin.png" />
 </a>
