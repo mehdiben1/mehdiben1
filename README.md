@@ -15,9 +15,6 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 
 ### 💡  Projects
 Welcome to my portfolio, where I showcase my [Projects]()
-### 🎓 Education 
-- Master’s Degree @ Faculty of Economics and Management  | 2022 - 2024
-
 ### 📜 Certifications 
 - **Data Camp Certified:** Data analyst with SQL 
 - **Data Camp Certified:** Data analyst with Python 
