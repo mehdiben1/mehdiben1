@@ -7,11 +7,11 @@
 I'm a junior data analyst with a passion for turning data into actionable insights. I recently earned my master's degree in decision engineering, where I developed a strong foundation in data analysis, problem-solving, and data-driven decision-making. 
 
 ### 🛠️ Skills 
-- **Data Analysis Tools:** Excel, SPSS, Pandas, NumPy, Jupyter
+- **Data Analysis Tools:** Excel, SPSS, Pandas, NumPy
 - **Programming Language:** Python
 - **Database Management:** Google BigQuery, SQLite, MySQL
 - **Visualization:** Tableau, Power Bi
-- **ML/DL:** SkLearn / Tensorflow
+- **ML:** SkLearn / Statsmodels
 
 ### 📜 Certifications 
 - **Data Camp Certified:** Data analyst with SQL 
