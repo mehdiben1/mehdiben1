@@ -3,7 +3,7 @@
 
 ### A little about me...
 
-I'm a junior data analyst with a passion for turning data into actionable insights. I recently earned my master's degree in decision engineering, where I developed a strong foundation in data analysis, problem-solving, and data-driven decision-making. 
+I'm a junior data analyst with a passion for turning data into actionable insights. I recently earned my master's degree in decision engineering, where I developed a strong foundation in data analysis, problem-solving, and data-driven decision-making.  
 
 ### 🛠️ Skills 
 - **Data Analysis Tools:** Excel, SPSS, Pandas, NumPy
