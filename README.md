@@ -16,7 +16,7 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 - **Data Camp Certified:** Data analyst with SQL 
 - **Data Camp Certified:** Data analyst with Python 
 - **Google Certified:** Google Data Analytics Professional Certificate
-- **Microsoft Certified** Microsoft Power BI Data Analyst Professional Certificate
+- **Microsoft Certified:** Microsoft Power BI Data Analyst Professional Certificate
 
 ### 📫 Connect with Me
 
