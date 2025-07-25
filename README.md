@@ -25,5 +25,5 @@ I'm a junior data analyst with a passion for turning data into actionable insigh
 </a>
 
 <a href="benbibamehdi@gmail.com">
-  <img height="32" align="left" alt="LinkedIn" src="https://github.com/mehdiben1/mehdiben1/blob/main/Images/linkedin.png" />
+  <img height="32" align="left" alt="Gmail" src="https://github.com/mehdiben1/mehdiben1/blob/main/Images/gmail.png" />
 </a>
