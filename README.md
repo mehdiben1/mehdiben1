@@ -24,6 +24,10 @@ Let's connect and explore how we can **turn data into actionable insights,** and
 - **Google Certified:** Google Data Analytics Professional Certificate
 - **Microsoft Certified:** Microsoft Power BI Data Analyst Professional Certificate
 
+### Stats:
+
+[![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdiben1&show_icons=true)](https://github.com/mehdben1/github-readme-stats) 
+
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/mehdi-benbiba/">
