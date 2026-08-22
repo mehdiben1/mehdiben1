@@ -3,7 +3,7 @@
 
 ### A little about me...
 
-**Junior BI & Data Analyst** with a Master's degree in Decision Engineering and hands-on experience delivering **business intelligence solutions for real clients** through a BI consulting environment.
+I'm a **Junior BI & Data Analyst** with a Master's degree in Decision Engineering and hands-on experience delivering **business intelligence solutions for real clients** through a BI consulting environment.
 
 ### 💼 What I'm currently working on
 I'm currently a BI Analyst Intern at Infinity Analytics, where I work on client projects involving:
@@ -18,18 +18,17 @@ I'm currently a BI Analyst Intern at Infinity Analytics, where I work on client 
 My current projects include sales and operational BI solutions, including a Microsoft Fabric-based **decision-support system** with data ingestion, warehouse development, Power BI reporting and role-based access.
 
 ### 🛠️ Tools 
-- **BI & Analytics:** Power BI, DAX, Microsoft Fabric
-- **Data:** Excel, SQL, Python, Pandas, PySpark
-- **Data Platforms:** Fabric Data Warehouse, Lakehouse, Dataflows Gen2, Pipelines
-- **ML:** Python (SkLearn / Statsmodels)
-- Other: Data Modeling, RLS, Business Intelligence, Data Visualization
+- **BI & Analytics :** Power BI, DAX, Microsoft Fabric
+- **Data :** Excel, SQL, Python, Pandas, PySpark
+- **Data Platforms :** Fabric Data Warehouse, Lakehouse, Dataflows Gen2, Pipelines
+- **ML :** Python (SkLearn / Statsmodels)
 
 ### 🎓 Certifications 
-- **Data Camp Certified:** Data analyst with SQL 
-- **Data Camp Certified:** Data analyst with Python 
-- **Google Certified:** Google Data Analytics Professional Certificate
-- **Microsoft Certified:** Microsoft Power BI Data Analyst Professional Certificate
-- **Advanced Data Analytics for Business:** ongoing
+- **Data Camp Certified :** Data analyst with SQL 
+- **Data Camp Certified :** Data analyst with Python 
+- **Google Certified :** Google Data Analytics Professional Certificate
+- **Microsoft Certified :** Microsoft Power BI Data Analyst Professional Certificate
+- **Advanced Data Analytics for Business :** ongoing
 
 
 
@@ -46,6 +45,9 @@ My current projects include sales and operational BI solutions, including a Micr
 
 </span>
 
-
+<br clear="left">
+<br clear="left">
+<br clear="left">
+I'm currently focused on growing into a <strong>strong BI / Data Analyst professional</strong>, with particular interest in <strong>data modeling, Microsoft Fabric, Power BI, and end-to-end decision-support systems.</strong>
 
 
