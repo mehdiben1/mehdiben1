@@ -1,28 +1,35 @@
-<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/cbe0b23d-2aba-43c3-a53d-2d768667ebf1" />
-
 <h1>Hello, I'm Mehdi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1> 
 </h1>
 
 ### A little about me...
 
-I'm a junior data analyst with a passion for turning data into actionable insights. I recently earned my master's degree in decision engineering, where I developed a strong foundation in **data analysis**, **problem-solving**, and **data-driven decision-making.** 
+**Junior BI & Data Analyst** with a Master's degree in Decision Engineering and hands-on experience delivering **business intelligence solutions for real clients** through a BI consulting environment.
 
-**My ambition is to help organizations make data-driven decisions by uncovering actionable insights through my analytical and problem-solving skills.**
+### 💼 What I'm currently working on
+I'm currently a BI Analyst Intern at Infinity Analytics, where I work on client projects involving:
 
-Let's connect and explore how we can **turn data into actionable insights,** and unlock the power of data together!
+- Building **Power BI reports and dashboards**
+- Developing **dataflows** and **data pipelines** with Microsoft Fabric
+- Working with **data warehouses and analytical data models**
+- Transforming and preparing data using **Power Query, SQL, Python and PySpark**
+- Automating Power BI data refreshes
+- Working with data from **SharePoint**, **Salesforce**, **Odoo** and other business systems
+  
+My current projects include sales and operational BI solutions, including a Microsoft Fabric-based **decision-support system** with data ingestion, warehouse development, Power BI reporting and role-based access.
 
-### 🛠️ Skills 
-- **Data Analysis Tools:** Excel, SPSS, Pandas, NumPy
-- **Programming Language:** Python
-- **Database Management:** Google BigQuery, SQLite, MySQL
-- **Visualization:** Tableau, Power Bi
-- **ML:** SkLearn / Statsmodels
+### 🛠️ Tools 
+- **BI & Analytics:** Power BI, DAX, Microsoft Fabric
+- **Data:** Excel, SQL, Python, Pandas, PySpark
+- **Data Platforms:** Fabric Data Warehouse, Lakehouse, Dataflows Gen2, Pipelines
+- **ML:** Python (SkLearn / Statsmodels)
+- Other: Data Modeling, RLS, Business Intelligence, Data Visualization
 
-### 📜 Certifications 
+### 🎓 Certifications 
 - **Data Camp Certified:** Data analyst with SQL 
 - **Data Camp Certified:** Data analyst with Python 
 - **Google Certified:** Google Data Analytics Professional Certificate
 - **Microsoft Certified:** Microsoft Power BI Data Analyst Professional Certificate
+- **Advanced Data Analytics for Business:** ongoing
 
 
 
@@ -38,3 +45,7 @@ Let's connect and explore how we can **turn data into actionable insights,** and
 
 
 </span>
+
+
+
+
