@@ -1,7 +1,7 @@
 <h1>Hello, I'm Mehdi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> </h1> 
 </h1>
 
-### A little about me...
+### A little about me... 
 
 I'm a **Junior BI & Data Analyst** with a Master's degree in Decision Engineering and hands-on experience delivering **business intelligence solutions for real clients** through a BI consulting environment.
 
