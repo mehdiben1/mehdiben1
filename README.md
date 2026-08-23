@@ -6,7 +6,7 @@
 I'm a **Junior BI & Data Analyst** with a Master's degree in Decision Engineering and hands-on experience delivering **business intelligence solutions for real clients** through a BI consulting environment.
 
 ### 💼 What I'm currently working on
-I'm currently a BI Analyst Intern at Infinity Analytics, where I work on client projects involving:
+I'm currently a BI Analyst, I work on client projects involving:
 
 - Building **Power BI reports and dashboards**
 - Developing **dataflows** and **data pipelines** with Microsoft Fabric
